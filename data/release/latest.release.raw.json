@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 16598016,
       "digest": "sha256:c345c84ed63246f114c6e74bff3356f567c22fe285495a27e2e0231236d63825",
-      "download_count": 145,
+      "download_count": 146,
       "created_at": "2026-08-30T09:16:33Z",
       "updated_at": "2026-08-30T09:16:36Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-amd64.exe"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15138988,
       "digest": "sha256:5681b257874572f874456ed6341ad9d2b22cd6e552a6337bfd70ab3208023b42",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-30T09:16:33Z",
       "updated_at": "2026-08-30T09:16:35Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-freebsd-arm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 15691264,
       "digest": "sha256:04aa26109fc8845000a18cf30803ebab0e782f76a3347f0fdfec9657e355241b",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-30T09:16:33Z",
       "updated_at": "2026-08-30T09:16:35Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-i386-softfloat.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 16203938,
       "digest": "sha256:14b922fd69a3894d94716ac4ec3a0facc869eb68a3ca13600fdac7ffbdb6d90a",
-      "download_count": 608,
+      "download_count": 612,
       "created_at": "2026-08-30T09:16:33Z",
       "updated_at": "2026-08-30T09:16:35Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-linux-amd64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 15270050,
       "digest": "sha256:9f9fdb748e0bbaf17fcb889e7b5519c17a93f2395d37ffbd5b215e12485fa7ae",
-      "download_count": 113,
+      "download_count": 115,
       "created_at": "2026-08-30T09:16:33Z",
       "updated_at": "2026-08-30T09:16:35Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-linux-arm64"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 15204635,
       "digest": "sha256:9146780f0a75cd82417ff20a2b0c8a7667a63b8a5a14f37194e5ec1ab64c0800",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-30T09:16:33Z",
       "updated_at": "2026-08-30T09:16:35Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-openbsd-arm"
