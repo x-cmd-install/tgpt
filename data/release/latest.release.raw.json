@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 16598016,
       "digest": "sha256:c345c84ed63246f114c6e74bff3356f567c22fe285495a27e2e0231236d63825",
-      "download_count": 186,
+      "download_count": 187,
       "created_at": "2026-08-30T09:16:33Z",
       "updated_at": "2026-08-30T09:16:36Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-amd64.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 16203938,
       "digest": "sha256:14b922fd69a3894d94716ac4ec3a0facc869eb68a3ca13600fdac7ffbdb6d90a",
-      "download_count": 821,
+      "download_count": 822,
       "created_at": "2026-08-30T09:16:33Z",
       "updated_at": "2026-08-30T09:16:35Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-linux-amd64"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 15138997,
       "digest": "sha256:9846bdcd1e31ada8cdf18bea3a7f465f388e5557c92c5715942486fa62d4530d",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-30T09:16:33Z",
       "updated_at": "2026-08-30T09:16:35Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-netbsd-arm"
