@@ -12,6 +12,28 @@ AI Chatbots in terminal for free
 x install tgpt
 ```
 
+## 代码规模
+
+合计: **10,669** 行代码（覆盖前 5 种语言、共 **62** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 10,422 | 262 | 1,632 | 57 |
+| PowerShell | 96 | 29 | 19 | 1 |
+| Sh | 51 | 7 | 4 | 1 |
+| Bash | 47 | 8 | 14 | 1 |
+| Json | 47 | 0 | 0 | 2 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **3.3 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (0/10) — Found 1/29 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/aandrew-me/tgpt>
@@ -22,6 +44,25 @@ x install tgpt
 - **最新版本**: `v2.14.0` (2026-08-30)
 - **最近提交**: 2026-08-30
 - **Release 含资产**: 30 个
+
+## 流行度
+
+- **Star**: 3,256 · **Fork**: 342 · **开放 issue**: 350 · **贡献者**: 39
+
+## 累计统计
+
+- **发布数**: 86 · **已合并 PR**: 121 · **开放 PR**: 1 · **已关闭 issue**: 342 · **开放 issue**: 8 · **提交数**: 632
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 7 | 1 | 0 | 4 | 10 |
+| last60d | 2026-07-12 | 3 | 39 | 1 | 15 | 4 | 71 |
+| 90d | 2026-06-12 | 3 | 45 | 1 | 16 | 4 | 81 |
+| last180d | 2026-03-14 | 3 | 47 | 1 | 21 | 4 | 84 |
+| 360d | 2025-09-15 | 4 | 52 | 1 | 37 | 5 | 94 |
+| last720d | 2024-09-20 | 16 | 73 | 1 | 100 | 7 | 224 |
 
 ## Release 资产
 
@@ -58,43 +99,15 @@ x install tgpt
 | [tgpt-openbsd-i386](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-openbsd-i386) | 14.3 MiB | `other` |
 | [tgpt-openbsd-i386-softfloat](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-openbsd-i386-softfloat) | 14.3 MiB | `other` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 3,256 · **Fork**: 342 · **开放 issue**: 350 · **贡献者**: 39
+在 [repology.org](https://repology.org/project/tgpt) 上共有 **22** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 86 · **已合并 PR**: 121 · **开放 PR**: 1 · **已关闭 issue**: 342 · **开放 issue**: 8 · **提交数**: 632
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 7 | 1 | 0 | 4 | 10 |
-| 90d | 2026-06-12 | 3 | 45 | 1 | 16 | 4 | 81 |
-| 360d | 2025-09-15 | 4 | 52 | 1 | 37 | 5 | 94 |
-
-## 代码规模
-
-合计: **10,669** 行代码（覆盖前 5 种语言、共 **62** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 10,422 | 262 | 1,632 | 57 |
-| PowerShell | 96 | 29 | 19 | 1 |
-| Sh | 51 | 7 | 4 | 1 |
-| Bash | 47 | 8 | 14 | 1 |
-| Json | 47 | 0 | 0 | 2 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **3.3 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (0/10) — Found 1/29 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `2.11.1` | ⚠️ outdated |
+| Homebrew | `2.14.0` | ✅ latest |
+| Nix unstable | `2.14.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -105,4 +118,4 @@ tgpt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:46:47Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:01:57Z._

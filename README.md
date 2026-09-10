@@ -12,6 +12,28 @@ AI Chatbots in terminal for free
 x install tgpt
 ```
 
+## Code insight
+
+Total: **10,669** lines of code across **62** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 10,422 | 262 | 1,632 | 57 |
+| PowerShell | 96 | 29 | 19 | 1 |
+| Sh | 51 | 7 | 4 | 1 |
+| Bash | 47 | 8 | 14 | 1 |
+| Json | 47 | 0 | 0 | 2 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.3 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 1/29 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/aandrew-me/tgpt>
@@ -22,6 +44,25 @@ x install tgpt
 - **Latest**: `v2.14.0` (2026-08-30)
 - **Last commit**: 2026-08-30
 - **Assets in release**: 30
+
+## Popularity
+
+- **Stars**: 3,256 · **Forks**: 342 · **Open issues**: 350 · **Contributors**: 39
+
+## Totals (cumulative)
+
+- **Releases**: 86 · **Merged PRs**: 121 · **Open PRs**: 1 · **Closed issues**: 342 · **Open issues**: 8 · **Commits**: 632
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 7 | 1 | 0 | 4 | 10 |
+| last60d | 2026-07-12 | 3 | 39 | 1 | 15 | 4 | 71 |
+| 90d | 2026-06-12 | 3 | 45 | 1 | 16 | 4 | 81 |
+| last180d | 2026-03-14 | 3 | 47 | 1 | 21 | 4 | 84 |
+| 360d | 2025-09-15 | 4 | 52 | 1 | 37 | 5 | 94 |
+| last720d | 2024-09-20 | 16 | 73 | 1 | 100 | 7 | 224 |
 
 ## Release assets
 
@@ -58,43 +99,15 @@ x install tgpt
 | [tgpt-openbsd-i386](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-openbsd-i386) | 14.3 MiB | `other` |
 | [tgpt-openbsd-i386-softfloat](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-openbsd-i386-softfloat) | 14.3 MiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 3,256 · **Forks**: 342 · **Open issues**: 350 · **Contributors**: 39
+Reported by **22** distros on [repology.org](https://repology.org/project/tgpt). **7** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 86 · **Merged PRs**: 121 · **Open PRs**: 1 · **Closed issues**: 342 · **Open issues**: 8 · **Commits**: 632
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 7 | 1 | 0 | 4 | 10 |
-| 90d | 2026-06-12 | 3 | 45 | 1 | 16 | 4 | 81 |
-| 360d | 2025-09-15 | 4 | 52 | 1 | 37 | 5 | 94 |
-
-## Code size
-
-Total: **10,669** lines of code across **62** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 10,422 | 262 | 1,632 | 57 |
-| PowerShell | 96 | 29 | 19 | 1 |
-| Sh | 51 | 7 | 4 | 1 |
-| Bash | 47 | 8 | 14 | 1 |
-| Json | 47 | 0 | 0 | 2 |
-
-## OpenSSF Scorecard
-
-Overall score: **3.3 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 1/29 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `2.11.1` | ⚠️ outdated |
+| Homebrew | `2.14.0` | ✅ latest |
+| Nix unstable | `2.14.0` | ✅ latest |
 
 ## Improve this data
 
@@ -105,4 +118,4 @@ Install metadata for tgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:46:46Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:01:56Z._
