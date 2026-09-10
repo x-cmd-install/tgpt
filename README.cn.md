@@ -4,7 +4,7 @@
 
 AI Chatbots in terminal for free
 
-![tgpt](https://repo.x-cmd.io/tgpt.svg)
+![tgpt](https://repo.x-cmd.io/tgpt.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,41 @@ x install tgpt
 - **最新版本**: `v2.14.0` (2026-08-30)
 - **最近提交**: 2026-08-30
 - **Release 含资产**: 30 个
-- **发布时间**: 2026-08-30T09:21:46Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [tgpt-amd64.exe](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-amd64.exe) | 15.8 MiB | `other` |
+| [tgpt-arm64.exe](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-arm64.exe) | 14.6 MiB | `other` |
+| [tgpt-freebsd-amd64](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-freebsd-amd64) | 15.2 MiB | `other` |
+| [tgpt-freebsd-arm](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-freebsd-arm) | 14.4 MiB | `other` |
+| [tgpt-freebsd-arm-softfloat](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-freebsd-arm-softfloat) | 14.5 MiB | `other` |
+| [tgpt-freebsd-arm64](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-freebsd-arm64) | 14.3 MiB | `other` |
+| [tgpt-freebsd-i386](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-freebsd-i386) | 14.2 MiB | `other` |
+| [tgpt-freebsd-i386-softfloat](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-freebsd-i386-softfloat) | 14.3 MiB | `other` |
+| [tgpt-i386-softfloat.exe](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-i386-softfloat.exe) | 15.0 MiB | `other` |
+| [tgpt-i386.exe](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-i386.exe) | 14.9 MiB | `other` |
+| [tgpt-linux-amd64](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-linux-amd64) | 15.5 MiB | `native/linux/x64` |
+| [tgpt-linux-arm](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-linux-arm) | 14.6 MiB | `native/linux/arm` |
+| [tgpt-linux-arm-softfloat](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-linux-arm-softfloat) | 14.7 MiB | `native/linux/arm` |
+| [tgpt-linux-arm64](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-linux-arm64) | 14.6 MiB | `native/linux/arm64` |
+| [tgpt-linux-i386](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-linux-i386) | 14.5 MiB | `native/linux/x86` |
+| [tgpt-linux-i386-softfloat](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-linux-i386-softfloat) | 14.6 MiB | `native/linux/x86` |
+| [tgpt-mac-amd64](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-mac-amd64) | 15.9 MiB | `other` |
+| [tgpt-mac-arm64](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-mac-arm64) | 15.0 MiB | `other` |
+| [tgpt-netbsd-amd64](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-netbsd-amd64) | 15.3 MiB | `other` |
+| [tgpt-netbsd-arm](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-netbsd-arm) | 14.4 MiB | `other` |
+| [tgpt-netbsd-arm-softfloat](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-netbsd-arm-softfloat) | 14.5 MiB | `other` |
+| [tgpt-netbsd-arm64](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-netbsd-arm64) | 14.3 MiB | `other` |
+| [tgpt-netbsd-i386](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-netbsd-i386) | 14.3 MiB | `other` |
+| [tgpt-netbsd-i386-softfloat](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-netbsd-i386-softfloat) | 14.3 MiB | `other` |
+| [tgpt-openbsd-amd64](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-openbsd-amd64) | 15.3 MiB | `other` |
+| [tgpt-openbsd-arm](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-openbsd-arm) | 14.5 MiB | `other` |
+| [tgpt-openbsd-arm-softfloat](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-openbsd-arm-softfloat) | 14.6 MiB | `other` |
+| [tgpt-openbsd-arm64](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-openbsd-arm64) | 14.3 MiB | `other` |
+| [tgpt-openbsd-i386](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-openbsd-i386) | 14.3 MiB | `other` |
+| [tgpt-openbsd-i386-softfloat](https://github.com/aandrew-me/tgpt/releases/download/v2.14.0/tgpt-openbsd-i386-softfloat) | 14.3 MiB | `other` |
 
 ## 流行度
 
@@ -71,4 +105,4 @@ tgpt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:56:48Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:46:47Z._
