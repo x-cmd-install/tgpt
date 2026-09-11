@@ -1,3 +1,14 @@
+- repo: nix_stable_24_11
+  srcname: tgpt
+  visiblename: tgpt
+  version: 2.7.4
+  origversion: null
+  status: outdated
+  summary: ChatGPT in terminal without needing API keys
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - GPL-3.0-only
 - repo: alt_p11
   srcname: tgpt
   binnames:
@@ -32,17 +43,6 @@
     - Development/Other
 - repo: arch
   subrepo: extra
-  srcname: tgpt
-  binname: tgpt
-  visiblename: tgpt
-  version: 2.11.1
-  origversion: 2.11.1-1
-  status: outdated
-  summary: AI Chatbots in terminal without needing API keys
-  licenses:
-    - GPL-3.0-or-later
-- repo: arch_testing
-  subrepo: extra-testing
   srcname: tgpt
   binname: tgpt
   visiblename: tgpt
@@ -141,17 +141,6 @@
     - mail@fabian-affolter.ch
   licenses:
     - GPL-3.0-only
-- repo: nix_stable_24_11
-  srcname: tgpt
-  visiblename: tgpt
-  version: 2.7.4
-  origversion: null
-  status: outdated
-  summary: ChatGPT in terminal without needing API keys
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - GPL-3.0-only
 - repo: nix_stable_25_05
   srcname: tgpt
   visiblename: tgpt
@@ -209,9 +198,9 @@
   srcname: tgpt
   binname: tgpt
   visiblename: tgpt
-  version: 2.11.1
-  origversion: 2.11.1-1
-  status: outdated
+  version: 2.14.0
+  origversion: 2.14.0-1
+  status: newest
   summary: AI Chatbots in terminal without needing API keys
   licenses:
     - GPL-3.0-or-later
