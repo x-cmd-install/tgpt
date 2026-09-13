@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 1 | 6 | 1 | 0 | 4 | 10 |
-| last60d | 2026-07-14 | 3 | 38 | 1 | 15 | 4 | 71 |
-| 90d | 2026-06-14 | 3 | 45 | 1 | 16 | 4 | 81 |
-| last180d | 2026-03-16 | 3 | 47 | 1 | 21 | 4 | 84 |
-| 360d | 2025-09-17 | 4 | 52 | 1 | 37 | 5 | 94 |
-| last720d | 2024-09-22 | 16 | 73 | 1 | 100 | 7 | 224 |
+| 30d | 2026-08-14 | 1 | 6 | 1 | 0 | 4 | 5 |
+| last60d | 2026-07-15 | 3 | 38 | 1 | 15 | 4 | 65 |
+| 90d | 2026-06-15 | 3 | 45 | 1 | 16 | 4 | 80 |
+| last180d | 2026-03-17 | 3 | 47 | 1 | 21 | 4 | 84 |
+| 360d | 2025-09-18 | 4 | 52 | 1 | 37 | 5 | 93 |
+| last720d | 2024-09-23 | 16 | 73 | 1 | 100 | 7 | 224 |
 
 ## Release assets
 
@@ -101,7 +101,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **21** distros on [repology.org](https://repology.org/project/tgpt). **8** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **21** distros on [repology.org](https://repology.org/project/tgpt). **9** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -118,4 +118,4 @@ Install metadata for tgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:57:01Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:05:55Z._
