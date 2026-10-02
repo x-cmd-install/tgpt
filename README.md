@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,269 · **Forks**: 347 · **Open issues**: 352 · **Contributors**: 42
+- **Stars**: 3,270 · **Forks**: 347 · **Open issues**: 352 · **Contributors**: 42
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 1 | 6 | 1 | 1 | 1 | 12 |
-| last60d | 2026-08-02 | 3 | 25 | 1 | 6 | 1 | 39 |
-| 90d | 2026-07-03 | 4 | 51 | 1 | 21 | 1 | 92 |
-| last180d | 2026-04-04 | 4 | 52 | 1 | 22 | 1 | 95 |
-| 360d | 2025-10-06 | 5 | 56 | 1 | 36 | 1 | 103 |
-| last720d | 2024-10-11 | 17 | 79 | 1 | 102 | 4 | 235 |
+| 30d | 2026-09-02 | 1 | 6 | 1 | 1 | 1 | 12 |
+| last60d | 2026-08-03 | 3 | 25 | 1 | 6 | 1 | 39 |
+| 90d | 2026-07-04 | 4 | 51 | 1 | 20 | 1 | 92 |
+| last180d | 2026-04-05 | 4 | 52 | 1 | 22 | 1 | 95 |
+| 360d | 2025-10-07 | 5 | 56 | 1 | 36 | 1 | 103 |
+| last720d | 2024-10-12 | 16 | 79 | 1 | 102 | 4 | 232 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for tgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:06:17Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:48:19Z._
