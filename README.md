@@ -14,11 +14,11 @@ x install tgpt
 
 ## Code insight
 
-Total: **11,275** lines of code across **66** files in the top 5 languages.
+Total: **11,511** lines of code across **68** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 11,028 | 296 | 1,746 | 61 |
+| Go | 11,264 | 302 | 1,782 | 63 |
 | PowerShell | 96 | 29 | 19 | 1 |
 | Sh | 51 | 7 | 4 | 1 |
 | Bash | 47 | 8 | 14 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.15.0` (2026-09-23)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-10-03
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 3,271 · **Forks**: 347 · **Open issues**: 353 · **Contributors**: 42
+- **Stars**: 3,272 · **Forks**: 347 · **Open issues**: 353 · **Contributors**: 43
 
 ## Totals (cumulative)
 
-- **Releases**: 87 · **Merged PRs**: 127 · **Open PRs**: 1 · **Closed issues**: 347 · **Open issues**: 6 · **Commits**: 644
+- **Releases**: 87 · **Merged PRs**: 129 · **Open PRs**: 0 · **Closed issues**: 347 · **Open issues**: 6 · **Commits**: 646
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 6 | 1 | 1 | 2 | 12 |
-| last60d | 2026-08-04 | 3 | 25 | 1 | 6 | 2 | 39 |
-| 90d | 2026-07-05 | 4 | 51 | 1 | 20 | 2 | 92 |
-| last180d | 2026-04-06 | 4 | 52 | 1 | 22 | 2 | 95 |
-| 360d | 2025-10-08 | 5 | 56 | 1 | 36 | 2 | 103 |
-| last720d | 2024-10-13 | 16 | 79 | 1 | 102 | 5 | 232 |
+| 30d | 2026-09-04 | 1 | 8 | 0 | 1 | 2 | 14 |
+| last60d | 2026-08-05 | 3 | 27 | 0 | 6 | 2 | 41 |
+| 90d | 2026-07-06 | 4 | 53 | 0 | 20 | 2 | 94 |
+| last180d | 2026-04-07 | 4 | 54 | 0 | 22 | 2 | 97 |
+| 360d | 2025-10-09 | 5 | 58 | 0 | 36 | 2 | 105 |
+| last720d | 2024-10-14 | 16 | 81 | 0 | 102 | 5 | 233 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for tgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:36:52Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:09:22Z._
