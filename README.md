@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.15.0` (2026-09-23)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-18
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 3,280 · **Forks**: 355 · **Open issues**: 355 · **Contributors**: 45
+- **Stars**: 3,280 · **Forks**: 358 · **Open issues**: 355 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 87 · **Merged PRs**: 131 · **Open PRs**: 2 · **Closed issues**: 350 · **Open issues**: 5 · **Commits**: 649
+- **Releases**: 87 · **Merged PRs**: 132 · **Open PRs**: 1 · **Closed issues**: 350 · **Open issues**: 5 · **Commits**: 650
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 1 | 7 | 2 | 3 | 1 | 10 |
-| last60d | 2026-08-19 | 2 | 12 | 2 | 8 | 1 | 24 |
-| 90d | 2026-07-20 | 4 | 44 | 2 | 11 | 1 | 82 |
-| last180d | 2026-04-21 | 4 | 56 | 2 | 24 | 1 | 100 |
-| 360d | 2025-10-23 | 5 | 60 | 2 | 38 | 1 | 108 |
-| last720d | 2024-10-28 | 16 | 83 | 2 | 102 | 4 | 236 |
+| 30d | 2026-09-19 | 1 | 8 | 1 | 3 | 1 | 6 |
+| last60d | 2026-08-20 | 2 | 13 | 1 | 8 | 1 | 21 |
+| 90d | 2026-07-21 | 4 | 45 | 1 | 11 | 1 | 59 |
+| last180d | 2026-04-22 | 4 | 57 | 1 | 24 | 1 | 101 |
+| 360d | 2025-10-24 | 5 | 61 | 1 | 38 | 1 | 109 |
+| last720d | 2024-10-29 | 16 | 84 | 1 | 102 | 4 | 237 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for tgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:44:32Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:51:51Z._
