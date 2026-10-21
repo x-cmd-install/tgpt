@@ -14,11 +14,11 @@ x install tgpt
 
 ## Code insight
 
-Total: **11,789** lines of code across **70** files in the top 5 languages.
+Total: **11,906** lines of code across **70** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 11,542 | 329 | 1,829 | 65 |
+| Go | 11,659 | 335 | 1,842 | 65 |
 | PowerShell | 96 | 29 | 19 | 1 |
 | Sh | 51 | 7 | 4 | 1 |
 | Bash | 47 | 8 | 14 | 1 |
@@ -26,13 +26,13 @@ Total: **11,789** lines of code across **70** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.4 / 10**
+Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 5/27 approved changesets -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 8/26 approved changesets -- score normalized to 3
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.15.0` (2026-09-23)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-20
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 3,281 · **Forks**: 360 · **Open issues**: 355 · **Contributors**: 47
+- **Stars**: 3,281 · **Forks**: 349 · **Open issues**: 355 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 87 · **Merged PRs**: 132 · **Open PRs**: 1 · **Closed issues**: 350 · **Open issues**: 5 · **Commits**: 650
+- **Releases**: 87 · **Merged PRs**: 134 · **Open PRs**: 1 · **Closed issues**: 350 · **Open issues**: 5 · **Commits**: 653
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 8 | 1 | 3 | 1 | 6 |
-| last60d | 2026-08-21 | 2 | 13 | 1 | 7 | 1 | 21 |
-| 90d | 2026-07-22 | 4 | 45 | 1 | 11 | 1 | 59 |
-| last180d | 2026-04-23 | 4 | 57 | 1 | 24 | 1 | 101 |
-| 360d | 2025-10-25 | 5 | 61 | 1 | 38 | 1 | 109 |
-| last720d | 2024-10-30 | 16 | 83 | 1 | 102 | 4 | 237 |
+| 30d | 2026-09-21 | 1 | 8 | 1 | 3 | 1 | 9 |
+| last60d | 2026-08-22 | 2 | 15 | 1 | 7 | 1 | 24 |
+| 90d | 2026-07-23 | 4 | 47 | 1 | 11 | 1 | 62 |
+| last180d | 2026-04-24 | 4 | 59 | 1 | 24 | 1 | 104 |
+| 360d | 2025-10-26 | 5 | 63 | 1 | 38 | 1 | 112 |
+| last720d | 2024-10-31 | 16 | 85 | 1 | 101 | 4 | 239 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for tgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:57:35Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:54:14Z._
