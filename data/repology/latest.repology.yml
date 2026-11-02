@@ -1,36 +1,10 @@
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: tgpt
-  binname: tgpt
-  visiblename: tgpt
-  version: 2.11.1
-  origversion: 2.11.1-1
-  status: outdated
-  summary: AI Chatbots in terminal without needing API keys
-  licenses:
-    - GPL-3.0-or-later
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: tgpt
-  binname: tgpt
-  visiblename: tgpt
-  version: 2.14.0
-  origversion: 2.14.0-1
-  status: outdated
-  summary: AI Chatbots in terminal without needing API keys
-  licenses:
-    - GPL-3.0-or-later
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: tgpt
+- repo: chocolatey
   binname: tgpt
   visiblename: tgpt
   version: 2.15.0
-  origversion: 2.15.0-1
+  origversion: null
   status: newest
-  summary: AI Chatbots in terminal without needing API keys
-  licenses:
-    - GPL-3.0-or-later
+  summary: AI Chatbots in terminal for free
 - repo: alt_p11
   srcname: tgpt
   binnames:
@@ -86,13 +60,6 @@
     - aandrew@aur
   licenses:
     - GPL-3.0
-- repo: chocolatey
-  binname: tgpt
-  visiblename: tgpt
-  version: 2.15.0
-  origversion: null
-  status: newest
-  summary: AI Chatbots in terminal for free
 - repo: freebsd
   srcname: www/tgpt
   binname: tgpt
@@ -119,6 +86,17 @@
   origversion: null
   status: rolling
   summary: AI Chatbots in terminal without needing API keys
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: tgpt
+  binname: tgpt
+  visiblename: tgpt
+  version: 2.15.0
+  origversion: 2.15.0-1
+  status: newest
+  summary: AI Chatbots in terminal without needing API keys
+  licenses:
+    - GPL-3.0-or-later
 - repo: nix_stable_24_05
   srcname: tgpt
   visiblename: tgpt
