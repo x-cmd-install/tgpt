@@ -30,9 +30,9 @@ Overall score: **3.7 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Code-Review** (4/10) — Found 10/25 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 12/25 approved changesets -- score normalized to 4
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,287 · **Forks**: 350 · **Open issues**: 356 · **Contributors**: 49
+- **Stars**: 3,289 · **Forks**: 352 · **Open issues**: 356 · **Contributors**: 49
 
 ## Totals (cumulative)
 
-- **Releases**: 87 · **Merged PRs**: 137 · **Open PRs**: 0 · **Closed issues**: 351 · **Open issues**: 5 · **Commits**: 658
+- **Releases**: 87 · **Merged PRs**: 137 · **Open PRs**: 2 · **Closed issues**: 351 · **Open issues**: 5 · **Commits**: 658
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 7 | 0 | 0 | 1 | 9 |
-| last60d | 2026-09-04 | 1 | 16 | 0 | 4 | 1 | 25 |
-| 90d | 2026-08-05 | 3 | 35 | 0 | 9 | 1 | 37 |
-| last180d | 2026-05-07 | 4 | 62 | 0 | 24 | 1 | 108 |
-| 360d | 2025-11-08 | 5 | 66 | 0 | 38 | 1 | 116 |
-| last720d | 2024-11-13 | 16 | 87 | 0 | 95 | 4 | 240 |
+| 30d | 2026-10-05 | 0 | 7 | 2 | 0 | 1 | 9 |
+| last60d | 2026-09-05 | 1 | 16 | 2 | 4 | 1 | 25 |
+| 90d | 2026-08-06 | 3 | 29 | 2 | 8 | 1 | 37 |
+| last180d | 2026-05-08 | 4 | 62 | 2 | 24 | 1 | 108 |
+| 360d | 2025-11-09 | 5 | 66 | 2 | 38 | 1 | 116 |
+| last720d | 2024-11-14 | 16 | 87 | 2 | 95 | 4 | 240 |
 
 ## Release assets
 
@@ -118,4 +118,4 @@ Install metadata for tgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:58:55Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:31:17Z._
