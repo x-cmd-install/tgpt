@@ -26,13 +26,13 @@ x install tgpt
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.7 / 10**
+总评分: **4 / 10**
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (4/10) — Found 12/25 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install tgpt
 
 ## 流行度
 
-- **Star**: 3,285 · **Fork**: 356 · **开放 issue**: 356 · **贡献者**: 53
+- **Star**: 3,287 · **Fork**: 356 · **开放 issue**: 356 · **贡献者**: 53
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install tgpt
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 17 | 1 | 0 | 1 | 19 |
-| last60d | 2026-09-10 | 1 | 26 | 1 | 4 | 1 | 33 |
-| 90d | 2026-08-11 | 2 | 33 | 1 | 8 | 1 | 45 |
-| last180d | 2026-05-13 | 4 | 72 | 1 | 24 | 1 | 119 |
-| 360d | 2025-11-14 | 5 | 76 | 1 | 38 | 1 | 127 |
-| last720d | 2024-11-19 | 16 | 97 | 1 | 94 | 4 | 251 |
+| 30d | 2026-10-11 | 0 | 17 | 1 | 0 | 1 | 19 |
+| last60d | 2026-09-11 | 1 | 26 | 1 | 4 | 1 | 33 |
+| 90d | 2026-08-12 | 2 | 32 | 1 | 8 | 1 | 45 |
+| last180d | 2026-05-14 | 4 | 72 | 1 | 24 | 1 | 119 |
+| 360d | 2025-11-15 | 5 | 76 | 1 | 38 | 1 | 127 |
+| last720d | 2024-11-20 | 16 | 97 | 1 | 94 | 4 | 251 |
 
 ## Release 资产
 
@@ -118,4 +118,4 @@ tgpt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T06:38:40Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:38:50Z._
