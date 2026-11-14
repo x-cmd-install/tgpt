@@ -14,11 +14,11 @@ x install tgpt
 
 ## Code insight
 
-Total: **14,106** lines of code across **85** files in the top 5 languages.
+Total: **14,151** lines of code across **85** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 13,859 | 406 | 2,079 | 80 |
+| Go | 13,904 | 406 | 2,083 | 80 |
 | PowerShell | 96 | 29 | 19 | 1 |
 | Sh | 51 | 7 | 4 | 1 |
 | Bash | 47 | 8 | 14 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.16.0` (2026-11-12)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-13
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 3,292 · **Forks**: 359 · **Open issues**: 356 · **Contributors**: 54
+- **Stars**: 3,294 · **Forks**: 359 · **Open issues**: 356 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 152 · **Open PRs**: 2 · **Closed issues**: 352 · **Open issues**: 4 · **Commits**: 676
+- **Releases**: 88 · **Merged PRs**: 155 · **Open PRs**: 1 · **Closed issues**: 352 · **Open issues**: 4 · **Commits**: 680
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 21 | 2 | 1 | 0 | 26 |
-| last60d | 2026-09-14 | 2 | 29 | 2 | 4 | 0 | 40 |
-| 90d | 2026-08-15 | 3 | 37 | 2 | 9 | 0 | 52 |
-| last180d | 2026-05-17 | 5 | 77 | 2 | 25 | 0 | 126 |
-| 360d | 2025-11-18 | 6 | 81 | 2 | 39 | 0 | 134 |
-| last720d | 2024-11-23 | 17 | 102 | 2 | 94 | 3 | 258 |
+| 30d | 2026-10-15 | 1 | 24 | 1 | 1 | 0 | 30 |
+| last60d | 2026-09-15 | 2 | 32 | 1 | 4 | 0 | 44 |
+| 90d | 2026-08-16 | 3 | 40 | 1 | 9 | 0 | 56 |
+| last180d | 2026-05-18 | 5 | 80 | 1 | 25 | 0 | 130 |
+| 360d | 2025-11-19 | 6 | 84 | 1 | 39 | 0 | 138 |
+| last720d | 2024-11-24 | 17 | 105 | 1 | 94 | 3 | 262 |
 
 ## Release assets
 
@@ -101,7 +101,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **21** distros on [repology.org](https://repology.org/project/tgpt). **2** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **21** distros on [repology.org](https://repology.org/project/tgpt). **3** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -118,4 +118,4 @@ Install metadata for tgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:55:13Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:50:18Z._
