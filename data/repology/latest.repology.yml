@@ -1,32 +1,3 @@
-- repo: chocolatey
-  binname: tgpt
-  visiblename: tgpt
-  version: 2.15.0
-  origversion: null
-  status: outdated
-  summary: AI Chatbots in terminal for free
-- repo: nix_stable_24_11
-  srcname: tgpt
-  visiblename: tgpt
-  version: 2.7.4
-  origversion: null
-  status: outdated
-  summary: ChatGPT in terminal without needing API keys
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_25_05
-  srcname: tgpt
-  visiblename: tgpt
-  version: 2.9.4
-  origversion: null
-  status: outdated
-  summary: ChatGPT in terminal without needing API keys
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - GPL-3.0-only
 - repo: alt_p11
   srcname: tgpt
   binnames:
@@ -82,13 +53,20 @@
     - aandrew@aur
   licenses:
     - GPL-3.0
+- repo: chocolatey
+  binname: tgpt
+  visiblename: tgpt
+  version: 2.15.0
+  origversion: null
+  status: outdated
+  summary: AI Chatbots in terminal for free
 - repo: freebsd
   srcname: www/tgpt
   binname: tgpt
   visiblename: www/tgpt
-  version: 2.15.0
-  origversion: 2.15.0_3
-  status: outdated
+  version: 2.16.0
+  origversion: null
+  status: newest
   summary: AI Chatbots in terminal without needing API keys
   maintainers:
     - nxjoseph@freebsd.org
@@ -145,6 +123,28 @@
   srcname: tgpt
   visiblename: tgpt
   version: 2.7.4
+  origversion: null
+  status: outdated
+  summary: ChatGPT in terminal without needing API keys
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: tgpt
+  visiblename: tgpt
+  version: 2.7.4
+  origversion: null
+  status: outdated
+  summary: ChatGPT in terminal without needing API keys
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: tgpt
+  visiblename: tgpt
+  version: 2.9.4
   origversion: null
   status: outdated
   summary: ChatGPT in terminal without needing API keys
