@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 16747520,
       "digest": "sha256:0f22e2b0136ea46e0736390bfd250f9a5307e32add2afaa56caf2a4786c51244",
-      "download_count": 70,
+      "download_count": 91,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-amd64.exe"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15467520,
       "digest": "sha256:4611e4b04fb3006f30cf0da792b2b081f74a3c4e0f013d1431265f754a4cec05",
-      "download_count": 24,
+      "download_count": 26,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-arm64.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 16351394,
       "digest": "sha256:97c67c52695312a6fc2b150aa01480e748e800ba04c531521360857b91f53f31",
-      "download_count": 132,
+      "download_count": 183,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-linux-amd64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 15401122,
       "digest": "sha256:891f086eac718176db47162e75735c23c6b39e42c1f3346303f96ff412e95f10",
-      "download_count": 29,
+      "download_count": 40,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-linux-arm64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 15397026,
       "digest": "sha256:1f19351e80cb61f1992f8db818c9bdfa421d1bea8499b1363639d072b3c00ed7",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-linux-i386"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 16851920,
       "digest": "sha256:b3c671624f47b8b966f1da3a4d6060b0b6315a2b143f38750a40b2d64743439a",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-mac-amd64"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 15910914,
       "digest": "sha256:cfe1fb0d44b4348ef045da4a6ab25470ac6149a28d96fe788c3ed7c4c8e81ef5",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-mac-arm64"
