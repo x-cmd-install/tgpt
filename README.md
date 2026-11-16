@@ -14,11 +14,11 @@ x install tgpt
 
 ## Code insight
 
-Total: **14,188** lines of code across **86** files in the top 5 languages.
+Total: **14,240** lines of code across **87** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 13,941 | 410 | 2,092 | 81 |
+| Go | 13,993 | 409 | 2,102 | 82 |
 | PowerShell | 96 | 29 | 19 | 1 |
 | Sh | 51 | 7 | 4 | 1 |
 | Bash | 47 | 8 | 14 | 1 |
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 156 · **Open PRs**: 1 · **Closed issues**: 352 · **Open issues**: 4 · **Commits**: 681
+- **Releases**: 88 · **Merged PRs**: 157 · **Open PRs**: 1 · **Closed issues**: 354 · **Open issues**: 2 · **Commits**: 682
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 25 | 1 | 0 | 0 | 27 |
-| last60d | 2026-09-16 | 2 | 32 | 1 | 4 | 0 | 39 |
-| 90d | 2026-08-17 | 3 | 40 | 1 | 9 | 0 | 52 |
-| last180d | 2026-05-19 | 5 | 81 | 1 | 25 | 0 | 129 |
-| 360d | 2025-11-20 | 6 | 85 | 1 | 39 | 0 | 139 |
-| last720d | 2024-11-25 | 17 | 106 | 1 | 94 | 3 | 263 |
+| 30d | 2026-10-17 | 1 | 26 | 1 | 0 | 0 | 28 |
+| last60d | 2026-09-17 | 2 | 33 | 1 | 4 | 0 | 40 |
+| 90d | 2026-08-18 | 3 | 40 | 1 | 9 | 0 | 53 |
+| last180d | 2026-05-20 | 5 | 82 | 1 | 25 | 0 | 130 |
+| 360d | 2025-11-21 | 6 | 86 | 1 | 39 | 0 | 140 |
+| last720d | 2024-11-26 | 17 | 107 | 1 | 95 | 1 | 264 |
 
 ## Release assets
 
@@ -101,13 +101,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **21** distros on [repology.org](https://repology.org/project/tgpt). **3** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **21** distros on [repology.org](https://repology.org/project/tgpt). **5** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.15.0` | ⚠️ outdated |
 | Homebrew | `2.16.0` | ✅ latest |
-| Nix unstable | `2.15.0` | ⚠️ outdated |
+| Nix unstable | `2.16.0` | ✅ latest |
 
 ## Improve this data
 
@@ -118,4 +118,4 @@ Install metadata for tgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:01:47Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:46:27Z._
