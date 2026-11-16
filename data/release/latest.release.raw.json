@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 16747520,
       "digest": "sha256:0f22e2b0136ea46e0736390bfd250f9a5307e32add2afaa56caf2a4786c51244",
-      "download_count": 91,
+      "download_count": 130,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-amd64.exe"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15467520,
       "digest": "sha256:4611e4b04fb3006f30cf0da792b2b081f74a3c4e0f013d1431265f754a4cec05",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-arm64.exe"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 16122028,
       "digest": "sha256:80834760a4a1b8c64347e40ad220a024c016436cda248483d386eb577a39c07f",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-freebsd-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15270060,
       "digest": "sha256:c049b2769b0e52dc007810080dfb01fb77ae865a862286564bc99bc257e9adf6",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-freebsd-arm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 15335596,
       "digest": "sha256:94025b13b8d3a22e363bf5644836543f97ab44b5956923861d7fdf949341ab97",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-freebsd-arm-softfloat"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15073452,
       "digest": "sha256:c89c7398efccb82fec018b1f0df289c9bc04e1dc5820c9d9ce23392c25769356",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-freebsd-arm64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 15081644,
       "digest": "sha256:69ae7759c1a745f00b61d9743d598ed2acbaa823f45ad7b737b4e84a8808ae40",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-freebsd-i386"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 15122604,
       "digest": "sha256:040da1a44376f927a885abefad4149541d6551b7fe9e366fc2392e3f55f77441",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-freebsd-i386-softfloat"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 15797248,
       "digest": "sha256:6b8c833030a29994a23603be2f0efd4c0a3e2ff2bb1aa1b922a43c718a9a3929",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-i386.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 16351394,
       "digest": "sha256:97c67c52695312a6fc2b150aa01480e748e800ba04c531521360857b91f53f31",
-      "download_count": 183,
+      "download_count": 243,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-linux-amd64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 15532194,
       "digest": "sha256:78f377f1bd855c0325fea648164f4c0a18f37323553769920bc849b86f5dca10",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-linux-arm"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 15401122,
       "digest": "sha256:891f086eac718176db47162e75735c23c6b39e42c1f3346303f96ff412e95f10",
-      "download_count": 40,
+      "download_count": 53,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-linux-arm64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 15397026,
       "digest": "sha256:1f19351e80cb61f1992f8db818c9bdfa421d1bea8499b1363639d072b3c00ed7",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-linux-i386"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 15910914,
       "digest": "sha256:cfe1fb0d44b4348ef045da4a6ab25470ac6149a28d96fe788c3ed7c4c8e81ef5",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-11-12T12:01:11Z",
       "updated_at": "2026-11-12T12:01:14Z",
       "browser_download_url": "https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-mac-arm64"

@@ -56,9 +56,9 @@
 - repo: chocolatey
   binname: tgpt
   visiblename: tgpt
-  version: 2.15.0
+  version: 2.16.0
   origversion: null
-  status: outdated
+  status: newest
   summary: AI Chatbots in terminal for free
 - repo: freebsd
   srcname: www/tgpt
@@ -177,9 +177,9 @@
 - repo: nix_unstable
   srcname: tgpt
   visiblename: tgpt
-  version: 2.15.0
+  version: 2.16.0
   origversion: null
-  status: outdated
+  status: newest
   summary: ChatGPT in terminal without needing API keys
   maintainers:
     - mail@fabian-affolter.ch
