@@ -37,7 +37,7 @@ Total: **14,933** lines of code across **93** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,302 · **Forks**: 363 · **Open issues**: 356 · **Contributors**: 59
+- **Stars**: 3,304 · **Forks**: 364 · **Open issues**: 356 · **Contributors**: 59
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **14,933** lines of code across **93** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 29 | 1 | 0 | 0 | 31 |
-| last60d | 2026-09-25 | 1 | 36 | 1 | 3 | 0 | 45 |
-| 90d | 2026-08-26 | 3 | 43 | 1 | 6 | 0 | 57 |
-| last180d | 2026-05-28 | 5 | 87 | 1 | 25 | 0 | 138 |
-| 360d | 2025-11-29 | 6 | 92 | 1 | 39 | 0 | 148 |
-| last720d | 2024-12-04 | 17 | 113 | 1 | 94 | 1 | 272 |
+| 30d | 2026-10-26 | 1 | 28 | 1 | 0 | 0 | 31 |
+| last60d | 2026-09-26 | 1 | 36 | 1 | 3 | 0 | 45 |
+| 90d | 2026-08-27 | 3 | 43 | 1 | 6 | 0 | 57 |
+| last180d | 2026-05-29 | 5 | 87 | 1 | 25 | 0 | 138 |
+| 360d | 2025-11-30 | 6 | 92 | 1 | 39 | 0 | 148 |
+| last720d | 2024-12-05 | 17 | 113 | 1 | 93 | 1 | 272 |
 
 ## Release assets
 
@@ -89,16 +89,6 @@ Total: **14,933** lines of code across **93** files in the top 5 languages.
 | [tgpt-openbsd-i386](https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-openbsd-i386) | 14.4 MiB | `other` |
 | [tgpt-openbsd-i386-softfloat](https://github.com/aandrew-me/tgpt/releases/download/v2.16.0/tgpt-openbsd-i386-softfloat) | 14.5 MiB | `other` |
 
-## Distribution status
-
-Reported by **21** distros on [repology.org](https://repology.org/project/tgpt). **5** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.15.0` | ⚠️ outdated |
-| Homebrew | `2.16.0` | ✅ latest |
-| Nix unstable | `2.16.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for tgpt lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tgpt` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -108,4 +98,4 @@ Install metadata for tgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:24:11Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:42:20Z._
