@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-AI Chatbots in terminal for free
+AI in your terminal for free
 
 [![x-cmd/install — tgpt Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/tgpt.svg)](https://x-cmd.com/install/tgpt)
 
@@ -14,11 +14,11 @@ x install tgpt
 
 ## Code insight
 
-Total: **14,933** lines of code across **93** files in the top 5 languages.
+Total: **15,603** lines of code across **95** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 14,686 | 430 | 2,207 | 88 |
+| Go | 15,356 | 447 | 2,270 | 90 |
 | PowerShell | 96 | 29 | 19 | 1 |
 | Sh | 51 | 7 | 4 | 1 |
 | Bash | 47 | 8 | 14 | 1 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.16.0` (2026-11-12)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-26
 - **Assets in release**: 30
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 163 · **Open PRs**: 1 · **Closed issues**: 354 · **Open issues**: 2 · **Commits**: 690
+- **Releases**: 88 · **Merged PRs**: 164 · **Open PRs**: 0 · **Closed issues**: 354 · **Open issues**: 2 · **Commits**: 691
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 28 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 1 | 36 | 1 | 3 | 0 | 0 |
-| 90d | 2026-08-28 | 3 | 43 | 1 | 6 | 0 | 0 |
-| last180d | 2026-05-30 | 5 | 87 | 1 | 25 | 0 | 0 |
-| 360d | 2025-12-01 | 6 | 92 | 1 | 39 | 0 | 0 |
-| last720d | 2024-12-06 | 17 | 113 | 1 | 93 | 1 | 272 |
+| 30d | 2026-10-28 | 1 | 28 | 0 | 0 | 0 | 32 |
+| last60d | 2026-09-28 | 1 | 37 | 0 | 3 | 0 | 46 |
+| 90d | 2026-08-29 | 3 | 44 | 0 | 6 | 0 | 58 |
+| last180d | 2026-05-31 | 5 | 88 | 0 | 25 | 0 | 139 |
+| 360d | 2025-12-02 | 6 | 93 | 0 | 39 | 0 | 149 |
+| last720d | 2024-12-07 | 17 | 114 | 0 | 93 | 1 | 273 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for tgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:31:38Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:58:58Z._
